@@ -1,4 +1,4 @@
-# Library Management System - Spring Boot Demo
+# Message board - Spring Boot Demo
 
 ## Overview
 This project is a simple project which displays user made messages using Spring Boot. It's designed for an in-class presentations on how to build a web application using the Spring Boot framework following the Model-View-Controller (MVC) design pattern.
