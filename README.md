@@ -1,8 +1,5 @@
 # Message board - Spring Boot Demo
 
-## Overview
-This project is a simple project which displays user made messages using Spring Boot. It's designed for an in-class presentations on how to build a web application using the Spring Boot framework following the Model-View-Controller (MVC) design pattern.
-
 ## Login to application
 - Enter "user" for your username
 - Find the generated password in you command line log after running the application
@@ -18,11 +15,11 @@ This project is a simple project which displays user made messages using Spring 
 
 ## Running the Application
 1. **Clone the Repository**
-git clone https://github.com/ehh67855/SpringDemo.git
-cd SpringDemo
+-git clone https://github.com/ehh67855/SpringDemo.git
+-cd SpringDemo
 
 2. **Build and Run**
-mvn spring-boot:run
+-mvn spring-boot:run
 
 The app will start running at http://localhost:8080.
 
